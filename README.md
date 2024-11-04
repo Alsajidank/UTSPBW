@@ -46,13 +46,23 @@ StudentController: Mengelola semua fungsi yang berkaitan dengan siswa, termasuk 
 Home: Menampilkan halaman utama yang berisi daftar kursus yang tersedia.
 
 Course Views: Berisi form dan daftar kursus, termasuk halaman untuk menambah dan mengedit kursus.
+![image](https://github.com/user-attachments/assets/0e17f6ae-94c0-4694-93ef-88b6a0cba136)
+![image](https://github.com/user-attachments/assets/f4467e33-466a-4db8-bee4-174a790f50a7)
 
 Student Views: Berisi form dan daftar siswa yang terdaftar, termasuk halaman untuk menambah dan mengedit data siswa.
+![image](https://github.com/user-attachments/assets/a364074c-1079-444e-8b87-8de0802fb263)
+![image](https://github.com/user-attachments/assets/5f9ced92-3d42-4d5c-b564-6e79c4746f03)
+
 
 ## Cara Menggunakan Aplikasi
 Halaman Utama: Di halaman utama, Anda akan melihat daftar kursus yang tersedia. Setiap kursus dilengkapi dengan deskripsi singkat, nama instruktur, dan durasi.
+![image](https://github.com/user-attachments/assets/70214b1b-a3e5-4229-896a-a3d046bcb22e)
+
 Manajemen Kursus: Klik pada tombol "Kursus" untuk mengelola kursus yang tersedia. Anda dapat menambah kursus baru, mengedit kursus yang sudah ada, atau menghapus kursus.
+![image](https://github.com/user-attachments/assets/13396361-df5f-42c3-81fc-1f995ec62b18)
+
 Manajemen Siswa: Klik pada tombol "Siswa" untuk mengelola data siswa. Anda dapat menambah siswa ke kursus tertentu, mengedit data siswa, atau menghapus siswa dari kursus.
+![image](https://github.com/user-attachments/assets/21b18124-d4a5-4a6c-8820-28b0a3bd831e)
 
 ## Teknologi yang Digunakan
 Laravel: Framework PHP yang digunakan untuk mengelola logika backend, database, dan routing aplikasi.
