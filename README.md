@@ -35,7 +35,8 @@ phone: Nomor telepon siswa
 
 course_id: Foreign key yang merujuk ke tabel courses untuk menyatakan kursus yang diikuti siswa
 
-3. Controllers
+3. Controllers ->
+  
 CourseController: Mengelola semua fungsi yang berkaitan dengan kursus, seperti menampilkan daftar kursus, menambah, mengedit, dan menghapus kursus.
 
 StudentController: Mengelola semua fungsi yang berkaitan dengan siswa, termasuk menampilkan daftar siswa, menambah siswa ke kursus tertentu, mengedit, dan menghapus data siswa.
