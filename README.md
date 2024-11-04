@@ -1,18 +1,7 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAsVBMVEUAAAB6ennP0M3JyschISHa29jR0s9HcEzd3t4AAADHyMXDw8C+v7yvsK64uKvZ2teioqC0tbIAAADV1tSUjAOJggC+tABwagD77QF6dAJMSQCrogDGx8BhXACelgCIiYeTlJX//QAPDgTazgAzMQA6OjyoqafPwwAiIAW6urbk1wBXV1ZKS0r8/Ps/PADs7e+7uJFvb2ywqlF+gIRgYWXl202xqB6opGt0dXTo5buEgmhM2T42AAAAEnRSTlMBT8KsKub8AP4Tn5OJeOnTZYks2mLQAAABxklEQVQokW2S6XbiMAyFEwJJ2E478h7H2clG2eHQ9v0fbOQAA50Z/bGPP1u6vpLjvESA4fw/ECyX/+DghqYzkmVk4fzEwfBq5n+CEJCSX690YC45AbSMtQAZcX/gwIvBRhQNS+w9aeBM0uGwl1LBFjfpZHqnwTRcA1RSA0+uWZ8rpB/hOLizDywHOudQd5AzkEhXA70x4CVU/ak2vapkTgeKmQMfc4LIcykMbYQ0uMutrrWPkIAtmCRSiuNFJX0fmaq08gjCEFfKVAM7RfYq5CAl2LzFBOHbyn5QX447sz+KDoXJ0gpejxDODnir5/tj2HZfETHxN7R5gX9dIHyvAUxT7K9fWZweujYLNdianYtw7OOuhAupd6Ffd99xWFYGj3xr0iB3W7BwswkJ2Ww256pIbnoQztFYJpSodyTuOnJtOEd/07k1f8jbUqEY05wnmpqhCf7d3DfrH0uQMEY11w0atJrc2hK4MTaS6wiTg1IgaClUbLUOdLIqm5KC2GqaRAaobB4PbVUCNAGjWRJRyiswle8+R2GUWQ0FPCIbvQzRdBSSLjsdzufPtI4JGQ1T8pgUnFp3Ofc8b7Z4Hzt/T3bwJ5znm98BSjR2Yk9OqgAAAABJRU5ErkJggg==" width="400" alt="Laravel Logo"></a></p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Ujian Tengah Semester
+Pemrograman Berbasis Web & Prak
+Ahmad Laatansa Sajidan Kowsoleea
+4521210072
 
 ## Learning Laravel
 
