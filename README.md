@@ -42,8 +42,11 @@ CourseController: Mengelola semua fungsi yang berkaitan dengan kursus, seperti m
 StudentController: Mengelola semua fungsi yang berkaitan dengan siswa, termasuk menampilkan daftar siswa, menambah siswa ke kursus tertentu, mengedit, dan menghapus data siswa.
 
 4. Views
+
 Home: Menampilkan halaman utama yang berisi daftar kursus yang tersedia.
+
 Course Views: Berisi form dan daftar kursus, termasuk halaman untuk menambah dan mengedit kursus.
+
 Student Views: Berisi form dan daftar siswa yang terdaftar, termasuk halaman untuk menambah dan mengedit data siswa.
 
 ## Cara Menggunakan Aplikasi
