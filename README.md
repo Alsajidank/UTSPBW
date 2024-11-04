@@ -63,5 +63,6 @@ MySQL: Sistem manajemen basis data yang digunakan untuk menyimpan data kursus da
 Authentication: Menambahkan fitur autentikasi untuk membatasi akses ke fitur-fitur tertentu.
 Search and Filter: Fitur pencarian dan filter untuk mempermudah pengguna menemukan kursus atau siswa berdasarkan nama atau kategori.
 Dashboard Statistik: Menambahkan halaman dashboard untuk menampilkan statistik jumlah siswa dan kursus yang terdaftar.
-Kesimpulan
+
+## Kesimpulan
 Proyek Portal Pendaftaran Kursus Online ini memberikan solusi sederhana untuk manajemen kursus dan pendaftaran siswa. Dengan fitur CRUD yang lengkap dan antarmuka yang mudah digunakan, aplikasi ini dapat dikembangkan lebih lanjut untuk memenuhi kebutuhan yang lebih kompleks.
